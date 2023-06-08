@@ -14,7 +14,7 @@
 </head>
 <body>
 <div class="container pt-3">
-test2 commit push and merge
+test2 commit push and 다 충돌 낼 거야 !!
 </div>
 </body>
 </html>

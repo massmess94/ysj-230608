@@ -21,7 +21,7 @@
 </head>
 <body>
 <div class="container pt-3">
-양성준입니다.
+양성준아닙니다.
 </div>
 
 </body>
